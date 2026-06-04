@@ -6,7 +6,7 @@ class Book:
         self.year = year
         self.genre = genre
         self.medium = medium
-        self.type = book_type #wait what? 
+        self.type = book_type 
 
 
 import csv
