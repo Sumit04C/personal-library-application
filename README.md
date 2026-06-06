@@ -19,4 +19,3 @@ Setting up the database(for future reference)
 Requirement Analysis
 - I don't want to have to enable MySQL to use the app.
 - I don't want my computer to be hit with traffic
-- 
