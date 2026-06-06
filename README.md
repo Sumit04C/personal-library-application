@@ -14,7 +14,7 @@ Functions and their purpose
 - def add_book(): user inputs new entries into their collection
 
 Setting up the database(for future reference) 
-- Using SQLite or PostgreSQL since most of the data is relational 
+- Using SQLite and/or SQLAlchemy since most of the data is relational 
 
 Requirement Analysis
 - I don't want to have to enable MySQL to use the app.
