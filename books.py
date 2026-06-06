@@ -37,7 +37,10 @@ def get_user_books():
     medium = input("Enter book medium (book/manga/magazine/etc): ")
     type = input("Enter book type (physical/ebook/audiobook/pdf): ")
 
-#shows the medium of the book, the type of book, and the genre of the book. The user can select from a list of options for each category, and the selected options are used to create a new Book object with the specified attributes.
+#shows the medium of the book, the type of book, and the genre of the book. 
+#The user can select from a list of options for each category, 
+# and the selected options are used to create a new Book object with the specified attributes.
+
     book_mediums = [
         "Book",
         "Manga",
